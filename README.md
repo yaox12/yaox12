@@ -1,4 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaox12&show_icons=true&count_private=true" />
+
 ### Hi there 👋
+
+I am a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.  
+I mainly focus on research in federated learning, lifelong/continual learning, and transfer learning.
 
 <!--
 **yaox12/yaox12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
